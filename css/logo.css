@@ -1,0 +1,24 @@
+@keyframes darkAnimate{
+    to{
+        stop-color:#E5D0D0;
+    }
+}
+@keyframes lightAnimate{
+    to{
+        stop-color:#7c1216;
+    }
+}
+/* #pt-1{
+    animation-name: lightAnimate;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+} */
+#pt-2{
+    animation-name: darkAnimate;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
