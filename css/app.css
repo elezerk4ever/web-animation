@@ -416,10 +416,11 @@ hr{
 #social-content-mp4{
     margin: 0.5em;
 }
-#social-content-mp4 video{
+#social-content-mp4 img{
     display: block;
-    width: 90%;
+    width: 30%;
     height: 80%;
+    margin: auto;
 }
 footer{
     text-align: center;
